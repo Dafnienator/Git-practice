@@ -30,6 +30,7 @@ public class profanityFilter2 {
                 
                 sentence = sentence.replace(swearWord, repeatedFilterWords);
 
+                // Git commit sentence
                 
             }
 
